@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|d:\\content creation\\.net core projects\\blazorwebassemblydemo\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5469C48D-B665-4F19-A1B7-F778DF129F94}|BlazorWebAssemblyDemo.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Pages\\Weather.razor",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Weather.razor",
+              "RelativeToolTip": "Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:37:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:37:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:37:04.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:37:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T17:36:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T17:36:05.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

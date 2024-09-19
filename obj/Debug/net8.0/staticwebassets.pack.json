@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\obj\\Debug\\net8.0\\compressed\\oftuj3eutj.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorWebAssemblyDemo.styles.css",
+      "PackagePath": "staticwebassets\\BlazorWebAssemblyDemo.styles.css"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\Content Creation\\.NET Core Projects\\BlazorWebAssemblyDemo\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorWebAssemblyDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorWebAssemblyDemo.props",
+      "PackagePath": "build\\BlazorWebAssemblyDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWebAssemblyDemo.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAssemblyDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorWebAssemblyDemo.props",
+      "PackagePath": "buildTransitive\\BlazorWebAssemblyDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
